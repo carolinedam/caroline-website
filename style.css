@@ -5,7 +5,8 @@
 }
 
 body {
-  padding-top: 100px;
+  display: block;
+  margin: 100px 0;
 }
 
 h1,
