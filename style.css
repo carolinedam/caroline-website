@@ -101,3 +101,7 @@ p .about-me {
 .weather-app {
   margin: 50px;
 }
+
+.app-text {
+  column-width: 100%;
+}
